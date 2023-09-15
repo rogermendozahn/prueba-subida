@@ -64,7 +64,7 @@
 ---
 # **5.1 Gestor de Blog**
 ![](https://scontent.ftgu1-3.fna.fbcdn.net/v/t39.30808-6/378058231_3537749919816268_3972800776632549590_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeGrfQMsan52k_04RAppaGcgV1mC5W4j1UhXWYLlbiPVSNiuSeNAzR_U58cXFapj9sz2rdgluhdErrvEzhhFTziO&_nc_ohc=1lC_d2-XcXIAX_pBpVV&_nc_oc=AQkKYq0XkfGoN8iTX2_C53rJwr-4HRmxzL9C782uCdUnwMCJAcWnfX8NvhhZm6U9jLk&_nc_ht=scontent.ftgu1-3.fna&oh=00_AfBiZSSUSGHrnEvN2EU8KhUuZADegjG2g-MSudJlXeTLcw&oe=65098B54)
-#### Al ingresar el usuario y contraseña aparecrala siguiente pantalla donde se podra gestionar el evento para poder publicarlo en el Blog.
+#### Al ingresar el usuario y contraseña aparecera la siguiente pantalla donde se podra gestionar el evento para poder publicarlo en el Blog.
 #### Para publicar el evento el usuario debe ingresar los siguientes datos:
 - Tipo de evento
 - Fecha del evento
@@ -73,4 +73,4 @@
 - Hacer una descripción del evento
 - Y como ultimo paso presionar el boton ***Publicar***
 
-#### Una vez publicado aparecera el evento en el Blog *(ver sección 2.7)*
+#### Una vez publicado aparecera el evento en el Blog *ver sección 2.7, (Boton Blog)*
